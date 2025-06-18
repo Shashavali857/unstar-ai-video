@@ -2,7 +2,10 @@ gradio
 torch
 diffusers
 moviepy
-imageio
-imageio-ffmpeg
 gtts
 deep-translator
+imageio
+imageio-ffmpeg
+transformers
+accelerate
+numpy
