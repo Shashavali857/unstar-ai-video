@@ -1,6 +1,8 @@
+gradio
 torch
 diffusers
 moviepy
+imageio
+imageio-ffmpeg
 gtts
 deep-translator
-gradio
